@@ -1,11 +1,11 @@
 package com.huatec.hiot_cloud.test.networktest;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.huatec.hiot_cloud.R;
 
@@ -119,7 +119,7 @@ public class TestOkHttpActivity extends AppCompatActivity {
     }
 
     /**
-     * 登录
+     *
      * @param userName
      * @param password
      * @param loginCode
